@@ -6,4 +6,4 @@
 # x86_64
 	git clone --depth=1 https://github.com/CapShift/D.N.A-2.git -b x86_64 DNA2
 
-# Only for ubuntu foacl
+# Only for ubuntu focal
